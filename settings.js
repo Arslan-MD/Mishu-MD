@@ -16,7 +16,7 @@ module.exports = {
   CHATBOT: settings.CHATBOT || process.env.CHATBOT || "off",
   BOT_NAME: settings.BOT_NAME || process.env.BOT_NAME || "🌸 MISHU-MD 🌸",
   MODE: settings.MODE || process.env.MODE || "public",
-  REPO: process.env.REPO || "https://github.com/Mishu-MD/Mishu_MD",
+  REPO: process.env.REPO || "https://github.com/Arslan-MD/Mishu_MD",
   PAIRING_CODE: process.env.PAIRING_CODE || 'true',
   BAILEYS: process.env.BAILEYS || "@whiskeysockets/baileys",
 
@@ -24,7 +24,7 @@ module.exports = {
   // 👑 OWNER & DEVELOPER SETTINGS
   // ============================================
   OWNER_NUMBER: settings.OWNER_NUMBER || process.env.OWNER_NUMBER || "923237045919",
-  OWNER_NAME: settings.OWNER_NAME || process.env.OWNER_NAME || "🌸 MISHU QUEEN 👸",
+  OWNER_NAME: settings.OWNER_NAME || process.env.OWNER_NAME || "🌸 Ａｒｓｌａｎ－Ｍ D",
   DEV_NAME: process.env.DEV_NAME || "ᴀʀꜱʟᴀɴ-ᴍᴅ",
   DEV: process.env.DEV || "923237045919",
   DEVELOPER_NUMBER: '923237045919@s.whatsapp.net',
