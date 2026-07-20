@@ -1,5 +1,6 @@
 ## Mishu-MD
-Mishu-MD is a world Powerful buttons multi-device WhatsApp bot. Developed by ArslanMD Official,
+* Mishu-MD is a world Powerful buttons multi-device WhatsApp bot. 
+* Developed by ArslanMD Official.
 
 <!-- ANIMATED BANNER -->
 <p align="center">
