@@ -20,6 +20,7 @@ module.exports = {
   REPO: process.env.REPO || "https://github.com/Mishu-MD/Mishu_MD",
   PAIRING_CODE: process.env.PAIRING_CODE || 'true',
   BAILEYS: process.env.BAILEYS || "@whiskeysockets/baileys",
+  DEV: process.env.DEV || "923237045919",
 
   // ============================================
   // 👑 OWNER & DEVELOPER SETTINGS
